@@ -9,7 +9,7 @@ function App() {
   const multiply = a * b;
   const divide = a / b;
 
-  return [add, subtract, multiply, divide];  
+  return [add, subtract, multiply, divide]; 
 
   };
 
